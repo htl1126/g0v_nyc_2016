@@ -12,3 +12,4 @@ This website is for g0v hackathon NYC 2016
 
 * backend: the backend settings
 * home: the homepage
+* static: image and css files
